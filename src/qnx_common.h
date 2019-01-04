@@ -123,6 +123,7 @@ static struct fmt_tests tests[] = {
 	{"@S,232@4e77904aac5a341ac947087d492336a7e20b8d355e52c7a377c460e560b59e6fecc4bb114904412f868bed6683f6a3d7787b9edf331798b479483c9588b50229@abcd1234abcd1234", "3"},
 	{"@S@e8283d1d51f5d1aeab493eb4936ae97606042f2140264ebad9b6b6e80acd5b2c2ac20f999453a4bc5a6d843263fe2da11656e42d6909ef24249ba57c4b0a9fcf@ca411920e2930254", "h0M%ppppppppppppppppppppppppaP-Q"},
 #endif
+	{"QSkSGrRQOSLoO", "QNX" },
 	{NULL}
 };
 #endif
